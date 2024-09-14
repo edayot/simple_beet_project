@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "simple-beet-project"
+version = "0.1.0"
+description = ""
+authors = ["edayot <pro.e.dayot@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+beet = "^0.108.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

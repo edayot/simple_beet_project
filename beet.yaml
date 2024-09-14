@@ -1,0 +1,7 @@
+
+data_pack:
+  load: .
+
+
+pipeline:
+  - test_plugin
